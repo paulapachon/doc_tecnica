@@ -279,26 +279,26 @@ Si la orden de compra se encuentra asociada a un **Destino**, el proveedor debe 
 
 **6.8.** En la pestaña de información de pago el proveedor seleccionará la forma de pago de acuerdo con negociación previa con Compensar.
 
-![](2022-03-29-12-48-52.png)
+![](2022-03-29-12-35-06.png)
 
 **6.9.** Si el proveedor selecciona la forma de pago  **TRANSFERENCIA ACH** el sistema propone las cuentas que el proveedor tiene inscritas.
 
-![](2022-03-29-12-49-48.png)
+![](2022-03-29-12-36-12.png)
 
-![](2022-03-29-12-51-16.png)
+![](2022-03-29-12-36-43.png)
 
 **6.10.** En la pestaña de **ADJUNTOS** el proveedor debe anexar los soportes físicos en formato **PDF** solicitados por Compensar. 
 
-![](2022-03-29-12-52-15.png)
+![](2022-03-29-12-37-49.png)
 
-![](2022-03-29-12-52-39.png)
+![](2022-03-29-12-38-29.png)
 
 **6.11.** Finalizado el diligenciamiento del formato, el proveedor debe seleccionar el botón enviar y confirmar el envió de la factura.
 
-![](2022-03-29-12-53-20.png)
+![](2022-03-29-12-39-32.png)
 
 **6.12.** El sistema genera mensaje de radicación exitosa y presenta el número del caso con el cual fue radicada la factura. Adicionalmente, envía una notificación al correo electrónico diligenciado por el proveedor confirmando la radicación exitosa.
 
-![](2022-03-29-12-54-27.png)
+![](2022-03-29-12-40-46.png)
 
-![](2022-03-29-12-55-02.png)
+![](2022-03-29-12-41-30.png)
