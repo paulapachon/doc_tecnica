@@ -301,4 +301,4 @@ Si la orden de compra se encuentra asociada a un **Destino**, el proveedor debe 
 
 ![](Images/2022-03-29-12-40-46.png)
 
-![]Images/(2022-03-29-12-41-30.png)
+![](Images/2022-03-29-12-41-30.png)
