@@ -26,7 +26,7 @@
 ## 1.	CONSULTAR ORDEN DE COMPRA
 **1.1** Ingresar a Transacciones en línea por medio de la página web de Compensar https://corporativo.compensar.com/
 
-![](2022-03-26-20-12-25.png)
+![](Images/2022-03-26-20-12-25.png)
 
 **1.2.** Seleccione el tipo de documento (NIT,CC, CE), ingrese el número de documento y contraseña.
 >Para persona jurídica no incluir digito de verificación.
