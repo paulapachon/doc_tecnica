@@ -313,7 +313,7 @@ Si la orden de compra se encuentra asociada a un **Destino**, el proveedor debe 
 **7.2.** Seleccione el tipo de documento (NIT,CC, CE), ingrese el número de documento y contraseña.
 >Para persona jurídica no incluir digito de verificación.
 ,
-![](Images/ingreso.png)
+![](Images/ingreso.PNG)
 
 **7.3.** Ingresar al módulo de finanzas.
 
@@ -331,17 +331,17 @@ Si la orden de compra se encuentra asociada a un **Destino**, el proveedor debe 
 - **Orden de compra:** El proveedor debe marcar la orden de compra en **SI** para que se habilite la opción de destino.
 - **Destino:** El proveedor debe seleccionar la opción **Honorarios**.
 
-![](Images/honorarios.png)
+![](Images/honorarios.PNG)
 
 **7.6** La selección de honorarios como destino, habilita la segunda sección "Consultar extractos honorarios médicos", en esta sección el proveedor debe diligenciar el   ejercicio y periodo del extracto a consultar y dar click en :mag: para obtener los resultados. El sistema regresará un listado de los honorarios con su repectivo valor y el total.
 
-![](Images/consulta.png)
+![](Images/consulta.PNG)
 
-![](Images/total.png)
+![](Images/total.PNG)
 
 **7.7** El proveedor debe verificar que una vez realizada la consulta de honorarios, en la primera sección de Información basica, el sistema a diligenciado automaticamente los campos del valor de la factura.
 
-![](Images/datos.png)
+![](Images/datos.PNG)
 
 **7.8.** En la pestaña de información de pago el proveedor seleccionará la forma de pago de acuerdo con negociación previa con Compensar.
 
