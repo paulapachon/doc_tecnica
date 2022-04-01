@@ -312,7 +312,8 @@ Si la orden de compra se encuentra asociada a un **Destino**, el proveedor debe 
 
 **7.2.** Seleccione el tipo de documento (NIT,CC, CE), ingrese el número de documento y contraseña.
 >Para persona jurídica no incluir digito de verificación.
-,
+
+
 ![](Images/ingreso.PNG)
 
 **7.3.** Ingresar al módulo de finanzas.
