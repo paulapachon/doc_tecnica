@@ -21,6 +21,7 @@
   - [4.	RADICACIÓN DE FACTURA CON ORDEN DE COMPRA](#4radicación-de-factura-con-orden-de-compra)
   - [5.	RADICACIÓN DE FACTURA CON ORDEN DE COMPRA Y DESTINO](#5radicación-de-factura-con-orden-de-compra-y-destino)
   - [6.	RADICACIÓN DE FACTURA CON AUTORIZACIÓN DE PAGO](#6radicación-de-factura-con-autorización-de-pago)
+  - [7.	CONSULTA EXTRACTO DE HONORARIOS](#7consulta-extracto-de-honorarios)
 
 # FUNCIONALIDADES PROVEEDORES
 ## 1.	CONSULTAR ORDEN DE COMPRA
@@ -278,6 +279,71 @@ Si la orden de compra se encuentra asociada a un **Destino**, el proveedor debe 
 ![](Images/2022-03-29-12-48-02.png)
 
 **6.8.** En la pestaña de información de pago el proveedor seleccionará la forma de pago de acuerdo con negociación previa con Compensar.
+
+![](Images/2022-03-29-12-35-06.png)
+
+**6.9.** Si el proveedor selecciona la forma de pago  **TRANSFERENCIA ACH** el sistema propone las cuentas que el proveedor tiene inscritas.
+
+![](Images/2022-03-29-12-36-12.png)
+
+![](Images/2022-03-29-12-36-43.png)
+
+**6.10.** En la pestaña de **ADJUNTOS** el proveedor debe anexar los soportes físicos en formato **PDF** solicitados por Compensar. 
+
+![](Images/2022-03-29-12-37-49.png)
+
+![](Images/2022-03-29-12-38-29.png)
+
+**6.11.** Finalizado el diligenciamiento del formato, el proveedor debe seleccionar el botón enviar y confirmar el envió de la factura.
+
+![](Images/2022-03-29-12-39-32.png)
+
+**6.12.** El sistema genera mensaje de radicación exitosa y presenta el número del caso con el cual fue radicada la factura. Adicionalmente, envía una notificación al correo electrónico diligenciado por el proveedor confirmando la radicación exitosa.
+
+![](Images/2022-03-29-12-40-46.png)
+
+![](Images/2022-03-29-12-41-30.png)
+
+## 7.	CONSULTA EXTRACTO DE HONORARIOS
+
+**7.1.** Ingresar a Transacciones en línea por medio de la página web de Compensar https://corporativo.compensar.com/
+
+![](Images/2022-03-26-20-12-25.png)
+
+**7.2.** Seleccione el tipo de documento (NIT,CC, CE), ingrese el número de documento y contraseña.
+>Para persona jurídica no incluir digito de verificación.
+,
+![](Images/ingreso.png)
+
+**7.3.** Ingresar al módulo de finanzas.
+
+![](Images/2022-03-26-20-17-57.png)
+
+**7.4.** En la sección proveedores, seleccione el campo ***Radicar Factura***.
+
+![](Images/2022-03-26-20-31-15.png)
+
+**7.5.** En la primera sección "Información general" , el proveedor debe complementar la siguiente información:
+
+- **email:** El sistema propone el email que se encuentra registrado por el proveedor en el ERP.
+- **No. Factura:** El proveedor debe diligenciar el número de factura que va a radicar.
+- **Tipo de documento:** El proveedor debe seleccionar el tipo de documento como **Cuenta de cobro**, de lo contrario no se le permitirá seleccionar el destino **Honorarios**
+- **Orden de compra:** El proveedor debe marcar la orden de compra en **SI** para que se habilite la opción de destino.
+- **Destino:** El proveedor debe seleccionar la opción **Honorarios**.
+
+![](Images/honorarios.png)
+
+**7.6** La selección de honorarios como destino, habilita la segunda sección "Consultar extractos honorarios médicos", en esta sección el proveedor debe diligenciar el   ejercicio y periodo del extracto a consultar y dar click en :mag: para obtener los resultados. El sistema regresará un listado de los honorarios con su repectivo valor y el total.
+
+![](Images/consulta.png)
+
+![](Images/total.png)
+
+**7.7** El proveedor debe verificar que una vez realizada la consulta de honorarios, en la primera sección de Información basica, el sistema a diligenciado automaticamente los campos del valor de la factura.
+
+![](Images/datos.png)
+
+**7.8.** En la pestaña de información de pago el proveedor seleccionará la forma de pago de acuerdo con negociación previa con Compensar.
 
 ![](Images/2022-03-29-12-35-06.png)
 
